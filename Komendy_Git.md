@@ -21,3 +21,6 @@
 * `git log` - Wyświetla historię zmian
 * `git rm --cached <plik>` - Przestaje śledzić plik
 * `git restore <plik>` - Cofa lokalne zmiany
+*
+* `git config --global user.name "s33480"`
+* `git config --global user.email "s33480@pjwstk.edu.pl"`
